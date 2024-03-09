@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1016353229313",
+    "project_id": "auvatv",
+    "storage_bucket": "auvatv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016353229313:android:e1b77e8baba4692f198e00",
+        "android_client_info": {
+          "package_name": "net.auva.tv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016353229313-25qi8pmmtosf9kn67r5h16tp1js5p8hp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.auva.tv",
+            "certificate_hash": "55929770ae50f4afd1cac443a5d4a859e226a38f"
+          }
+        },
+        {
+          "client_id": "1016353229313-gqgctrf49opq85tvl89q1denvf5egh5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5jFH9f0Zbz-ZuQXoKq_05xFUjO3ddqtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016353229313-gqgctrf49opq85tvl89q1denvf5egh5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

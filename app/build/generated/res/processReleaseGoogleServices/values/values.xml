@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1016353229313-gqgctrf49opq85tvl89q1denvf5egh5g.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1016353229313</string>
+    <string name="google_api_key" translatable="false">AIzaSyB5jFH9f0Zbz-ZuQXoKq_05xFUjO3ddqtM</string>
+    <string name="google_app_id" translatable="false">1:1016353229313:android:e1b77e8baba4692f198e00</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB5jFH9f0Zbz-ZuQXoKq_05xFUjO3ddqtM</string>
+    <string name="google_storage_bucket" translatable="false">auvatv.appspot.com</string>
+    <string name="project_id" translatable="false">auvatv</string>
+</resources>

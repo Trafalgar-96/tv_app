@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <FrameLayout xmlns:tools="http://schemas.android.com/tools"
+        android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+<LinearLayout
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:gravity="center_vertical"
+    android:background="#67000000">
+
+    <ImageButton
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:background="?android:attr/selectableItemBackground"
+        android:src="@drawable/ic_arrow_back_black_24dp"
+        android:id="@+id/bu_back" android:padding="12dp"/>
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:id="@+id/txt_name"
+        android:text="Channel Name"
+        android:textSize="20sp"
+        android:textColor="#fff"/>
+</LinearLayout>
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="bottom"
+    android:background="#CC000000"
+    android:layoutDirection="ltr"
+    android:orientation="vertical"
+    tools:targetApi="28"
+    android:paddingRight="25dp"
+    android:paddingLeft="25dp">
+
+   
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:gravity="center"
+        android:orientation="horizontal"
+
+        >
+
+        <ImageButton
+            android:id="@+id/exo_playback_speed"
+            style="@style/ExoMediaButton.VR"
+            android:layout_width="42dp"
+            android:layout_height="42dp"
+            android:src="@drawable/settings">
+
+        </ImageButton>
+
+
+        <TextView
+            android:id="@+id/speed"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text=""
+            android:gravity="center"
+            android:textColor="@color/colorPrimary"
+            android:textStyle="bold">
+
+        </TextView>
+
+        <ImageButton
+            android:id="@id/exo_play"
+            style="@style/ExoMediaButton.Play"
+            android:layout_marginStart="10dp"
+            android:gravity="center_vertical"
+       />
+
+        <ImageButton
+            android:id="@id/exo_pause"
+            android:layout_marginStart="10dp"
+            style="@style/ExoMediaButton.Pause"
+            android:gravity="center_vertical"
+            />
+
+
+        <ImageButton
+            android:id="@+id/exo_fullscreen_button"
+            android:layout_width="42dp"
+            android:layout_height="42dp"
+            android:layout_marginStart="20dp"
+            android:layout_weight="0"
+            android:background="@null"
+            android:src="@drawable/ic_baseline_fullscreen_24"
+            android:gravity="center_vertical"/>
+
+        <!--        <TextView-->
+        <!--            android:id="@id/exo_position"-->
+        <!--            android:layout_width="wrap_content"-->
+        <!--            android:layout_height="wrap_content"-->
+        <!--            android:includeFontPadding="false"-->
+        <!--            android:paddingLeft="4dp"-->
+        <!--            android:paddingRight="4dp"-->
+        <!--            android:textColor="#FFBEBEBE"-->
+        <!--            android:textSize="14sp"-->
+        <!--            android:textStyle="bold" />-->
+
+        <!--        <com.google.android.exoplayer2.ui.DefaultTimeBar-->
+        <!--            android:id="@id/exo_progress"-->
+        <!--            android:layout_width="0dp"-->
+        <!--            android:layout_height="26dp"-->
+        <!--            android:layout_weight="1"-->
+        <!--            tools:ignore="SpeakableTextPresentCheck,SpeakableTextPresentCheck" />-->
+
+        <!--        <TextView-->
+        <!--            android:id="@id/exo_duration"-->
+        <!--            android:layout_width="wrap_content"-->
+        <!--            android:layout_height="wrap_content"-->
+        <!--            android:includeFontPadding="false"-->
+        <!--            android:paddingLeft="4dp"-->
+        <!--            android:paddingRight="4dp"-->
+        <!--            android:textColor="#FFBEBEBE"-->
+        <!--            android:textSize="14sp"-->
+        <!--            android:textStyle="bold" />-->
+
+
+        <!--            android:visibility="gone"-->
+
+        <!--        <ImageButton-->
+        <!--            android:id="@+id/exo_track_selection_view"-->
+        <!--            android:layout_width="32dp"-->
+        <!--            android:layout_height="32dp"-->
+        <!--            android:layout_marginLeft="4dp"-->
+        <!--            android:layout_weight="0"-->
+        <!--            style="@style/ExoMediaButton.Play"-->
+        <!--            android:src="@drawable/settings" />-->
+
+
+
+    </LinearLayout>
+
+</LinearLayout>
+</FrameLayout>

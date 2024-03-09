@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <string name="app_name">ExoPlayer code lab</string>
+    <string name="media_url_cinemana">http://cinema.abrajtelecom.net:8081/vod/DetectiveConanCrimsonLoveLetter/playlist_1_6036.json/master.m3u8</string>
+    <string name="player_activity_name">Media player</string>
+    <string name="track_selection_title">Video Quality</string>
+    <style name="PlayerTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    <item name="android:windowAnimationStyle">@null</item>
+    <item name="colorPrimary">@color/colorPrimary</item>
+    <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    <item name="colorAccent">@color/colorAccent</item>
+    <item name="android:windowBackground">@null</item>
+  </style>
+    <style name="TrackSelectionDialogThemeOverlay" parent="ThemeOverlay.AppCompat.Dialog.Alert">
+
+    <item name="windowNoTitle">false</item>
+
+  </style>
+</resources>

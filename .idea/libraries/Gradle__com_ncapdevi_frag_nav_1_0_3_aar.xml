@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ncapdevi:frag-nav:1.0.3@aar" external-system-id="GRADLE">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/4c6df6d40c3b3b369c502a441b229f52/transformed/jetified-frag-nav-1.0.3/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/4c6df6d40c3b3b369c502a441b229f52/transformed/jetified-frag-nav-1.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4c6df6d40c3b3b369c502a441b229f52/transformed/jetified-frag-nav-1.0.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4c6df6d40c3b3b369c502a441b229f52/transformed/jetified-frag-nav-1.0.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ncapdevi/frag-nav/1.0.3/1af5730faa2930f21d6f5dae71fb1aed7852529/frag-nav-1.0.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ncapdevi/frag-nav/1.0.3/23c9735e770541942245bbc26818cb7ec93305bc/frag-nav-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

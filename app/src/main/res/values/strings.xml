@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Auva TV</string>
+
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="connection_error_text">Please check your internet connection and try again.</string>
+    <string name="connection_error">Connection Error!</string>
+    <!--    <string name="abraj_url">tv.abrajtelecom.net</string>-->
+    <!--    <string name="abraj_tv_ip">10.81.33.50</string>-->
+    <!--    <string name="abraj_tv_api">http://10.81.33.50/api.php</string>-->
+    <string name="favorite">Favorite List</string>
+    <!--    <string name="tv_url">http://tv.abrajtelecom.net/</string>-->
+    <string name="prefer_extension_decoders">Prefer extension decoders</string>
+    <string name="storage_permission_denied">Permission to access storage was denied</string>
+    <string name="retry">Retry</string>
+
+
+    <string name="otp_title">Verification code</string>
+    <string name="otp_details">We will send you a verification code</string>
+    <string name="otp_details2">Enter your verification code</string>
+    <string name="phone_hint">Enter phone number</string>
+    <string name="button_title">Get the code</string>
+    <string name="didnt_receive_code">Didn\'t receive the code?</string>
+    <string name="resend">Resend</string>
+    <string name="verify">verify</string>
+    <string name="toast_unverified">Invalid code</string>
+    <string name="toast_unverified_phone">The phone number is incorrect</string>
+    <string name="toast_request_error">Error in response from server</string>
+    <string name="toast_verified">Verified Phone Number</string>
+    <string name="verifier_server_response">Server sent SMS</string>
+    <string name="must_enter_code">You must enter the code</string>
+    <string name="resend_msg">The code has been resent</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="tv_url">https://auvatv.net/</string>
+    <string name="title_activity_country">CountryActivity</string>
+    <string name="country_text">سيتم أظهار القنوات والمحتوى المناسب لبلدك وذلك لتسريع البحث والتنقل بين القنوات</string>
+    <string name="wait">جار التحميل يرجى الانتظار ...</string>
+
+
+</resources>

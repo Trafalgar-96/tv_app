@@ -1,0 +1,14 @@
+include ':app', ':player-lib'
+include ':android-app-updater'
+project(':player-lib').projectDir = new File('libs/exoplayer/player-lib')
+project(':android-app-updater').projectDir = new File('libs/AndroidAppUpdater/android-app-updater/')
+
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        maven { url 'https://dl.bintray.com/hummatli/maven/' }
+        jcenter()
+    }
+}

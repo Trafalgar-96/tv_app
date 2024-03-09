@@ -1,0 +1,28 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mmuum/Desktop/myWork/tv/alihusseinalissa-abrajtv-d27bccd87d7e/libs/AndroidAppUpdater/android-app-updater/src/main/res/layout/aaupdater_restricter_dlg.xml" value="0.375" />
+        <entry key="..\:/Users/mmuum/Desktop/myWork/tv/alihusseinalissa-abrajtv-d27bccd87d7e/libs/exoplayer/player-lib/src/main/res/layout/activity_player.xml" value="0.1" />
+        <entry key="..\:/Users/mmuum/Desktop/myWork/tv/alihusseinalissa-abrajtv-d27bccd87d7e/libs/exoplayer/player-lib/src/main/res/layout/custom_player_control.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/mmuum/Desktop/myWork/tv/alihusseinalissa-abrajtv-d27bccd87d7e/libs/exoplayer/player-lib/src/main/res/layout/exo_playback_control_view.xml" value="0.35104166666666664" />
+        <entry key="..\:/mywork/tv-app/app/src/main/res/drawable-v21/ripple.xml" value="0.303" />
+        <entry key="..\:/mywork/tv-app/app/src/main/res/drawable-v21/ripple_fav.xml" value="0.303" />
+        <entry key="..\:/mywork/tv-app/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.303" />
+        <entry key="..\:/mywork/tv-app/app/src/main/res/drawable/background_button.xml" value="0.303" />
+        <entry key="..\:/mywork/tv-app/app/src/main/res/drawable/ic_baseline_favorite_24px.xml" value="0.303" />
+        <entry key="..\:/mywork/tv-app/app/src/main/res/drawable/ic_baseline_favorite_border_24px.xml" value="0.303" />
+        <entry key="..\:/mywork/tv-app/app/src/main/res/drawable/ic_launcher_background.xml" value="0.303" />
+        <entry key="..\:/mywork/tv-app/app/src/main/res/drawable/only_borders_button.xml" value="0.303" />
+        <entry key="..\:/mywork/tv-app/app/src/main/res/layout/activity_send_otp.xml" value="0.36666666666666664" />
+        <entry key="..\:/mywork/tv-app/app/src/main/res/layout/activity_verify_otp.xml" value="0.36102564102564105" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

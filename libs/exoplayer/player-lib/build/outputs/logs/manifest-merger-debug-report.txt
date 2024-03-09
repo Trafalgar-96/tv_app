@@ -1,0 +1,30 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\tv-app\libs\exoplayer\player-lib\src\main\AndroidManifest.xml:15:1-25:12
+INJECTED from F:\tv-app\libs\exoplayer\player-lib\src\main\AndroidManifest.xml:15:1-25:12
+	package
+		INJECTED from F:\tv-app\libs\exoplayer\player-lib\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\tv-app\libs\exoplayer\player-lib\src\main\AndroidManifest.xml:15:11-69
+uses-permission#android.permission.INTERNET
+ADDED from F:\tv-app\libs\exoplayer\player-lib\src\main\AndroidManifest.xml:17:3-64
+	android:name
+		ADDED from F:\tv-app\libs\exoplayer\player-lib\src\main\AndroidManifest.xml:17:20-62
+application
+ADDED from F:\tv-app\libs\exoplayer\player-lib\src\main\AndroidManifest.xml:19:3-23:48
+	android:supportsRtl
+		ADDED from F:\tv-app\libs\exoplayer\player-lib\src\main\AndroidManifest.xml:23:7-33
+	android:label
+		ADDED from F:\tv-app\libs\exoplayer\player-lib\src\main\AndroidManifest.xml:22:7-39
+	android:allowBackup
+		ADDED from F:\tv-app\libs\exoplayer\player-lib\src\main\AndroidManifest.xml:21:7-33
+	android:usesCleartextTraffic
+		ADDED from F:\tv-app\libs\exoplayer\player-lib\src\main\AndroidManifest.xml:20:7-42
+uses-sdk
+INJECTED from F:\tv-app\libs\exoplayer\player-lib\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\tv-app\libs\exoplayer\player-lib\src\main\AndroidManifest.xml
+INJECTED from F:\tv-app\libs\exoplayer\player-lib\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\tv-app\libs\exoplayer\player-lib\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\tv-app\libs\exoplayer\player-lib\src\main\AndroidManifest.xml

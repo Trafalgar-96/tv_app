@@ -1,0 +1,7 @@
+com.player.exoplayer.BuildConfig
+com.player.exoplayer.PlayerActivity$1
+com.player.exoplayer.PlayerActivity$2$1
+com.player.exoplayer.PlayerActivity$2
+com.player.exoplayer.PlayerActivity$3
+com.player.exoplayer.PlayerActivity$4
+com.player.exoplayer.PlayerActivity

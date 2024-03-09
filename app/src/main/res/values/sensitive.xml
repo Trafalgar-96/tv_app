@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="server_client_secret">T2dAjpsJoMHRvYhtWVLeEmriDFL2p6eW</string>
+    <string name="server_client_secret_v8">T2dAjpsJoMHRvYhtWVLeEmriDFL2p6eW</string>
+    <string name="url_verify">https://otp.it-apps.co/api/verify/</string>
+    <string name="url_request">https://otp.it-apps.co/api/request/</string>
+    <string name="url_reset">https://otp.it-apps.co/api/reset</string>
+</resources>

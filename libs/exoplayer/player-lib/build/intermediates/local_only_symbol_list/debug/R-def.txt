@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+drawable ic_arrow_back_black_24dp
+drawable ic_baseline_fullscreen_24
+drawable ic_baseline_settings_24
+drawable ic_baseline_speed_24
+drawable settings
+id bu_back
+id bu_setting
+id download_button
+id exo_fullscreen_button
+id exo_playback_speed
+id playerView
+id progressBar
+id sample_list
+id sample_title
+id speed
+id txt_name
+layout activity_player
+layout custom_player_control
+layout exo_playback_control_view
+layout sample_chooser_activity
+layout sample_list_item
+string app_name
+string media_url_cinemana
+string player_activity_name
+string track_selection_title
+style PlayerTheme
+style TrackSelectionDialogThemeOverlay

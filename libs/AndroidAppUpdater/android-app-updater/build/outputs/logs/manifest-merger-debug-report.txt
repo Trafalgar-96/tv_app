@@ -1,0 +1,40 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\tv-app\libs\AndroidAppUpdater\android-app-updater\src\main\AndroidManifest.xml:2:1-16:12
+INJECTED from F:\tv-app\libs\AndroidAppUpdater\android-app-updater\src\main\AndroidManifest.xml:2:1-16:12
+	package
+		INJECTED from F:\tv-app\libs\AndroidAppUpdater\android-app-updater\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\tv-app\libs\AndroidAppUpdater\android-app-updater\src\main\AndroidManifest.xml:5:5-32
+	xmlns:tools
+		ADDED from F:\tv-app\libs\AndroidAppUpdater\android-app-updater\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from F:\tv-app\libs\AndroidAppUpdater\android-app-updater\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from F:\tv-app\libs\AndroidAppUpdater\android-app-updater\src\main\AndroidManifest.xml:4:5-28
+uses-permission#android.permission.INTERNET
+ADDED from F:\tv-app\libs\AndroidAppUpdater\android-app-updater\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from F:\tv-app\libs\AndroidAppUpdater\android-app-updater\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\tv-app\libs\AndroidAppUpdater\android-app-updater\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from F:\tv-app\libs\AndroidAppUpdater\android-app-updater\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from F:\tv-app\libs\AndroidAppUpdater\android-app-updater\src\main\AndroidManifest.xml:10:5-82
+	android:name
+		ADDED from F:\tv-app\libs\AndroidAppUpdater\android-app-updater\src\main\AndroidManifest.xml:10:22-80
+application
+ADDED from F:\tv-app\libs\AndroidAppUpdater\android-app-updater\src\main\AndroidManifest.xml:11:5-14:19
+	android:label
+		ADDED from F:\tv-app\libs\AndroidAppUpdater\android-app-updater\src\main\AndroidManifest.xml:13:9-41
+	android:allowBackup
+		ADDED from F:\tv-app\libs\AndroidAppUpdater\android-app-updater\src\main\AndroidManifest.xml:12:9-35
+uses-sdk
+INJECTED from F:\tv-app\libs\AndroidAppUpdater\android-app-updater\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\tv-app\libs\AndroidAppUpdater\android-app-updater\src\main\AndroidManifest.xml
+INJECTED from F:\tv-app\libs\AndroidAppUpdater\android-app-updater\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\tv-app\libs\AndroidAppUpdater\android-app-updater\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\tv-app\libs\AndroidAppUpdater\android-app-updater\src\main\AndroidManifest.xml

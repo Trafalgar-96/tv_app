@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "net.auva.tv.app-main-58:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/drawable_ic_baseline_favorite_border_24px.xml.flat",
+        "source": "net.auva.tv.app-main-58:/drawable/ic_baseline_favorite_border_24px.xml"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "net.auva.tv.app-main-58:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/drawable_keditbookmarks.png.flat",
+        "source": "net.auva.tv.app-main-58:/drawable/keditbookmarks.png"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "net.auva.tv.app-main-58:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/drawable_ic_baseline_favorite_24px.xml.flat",
+        "source": "net.auva.tv.app-main-58:/drawable/ic_baseline_favorite_24px.xml"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "net.auva.tv.app-main-58:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "net.auva.tv.app-main-58:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/layout_activity_main.xml.flat",
+        "source": "net.auva.tv.app-main-58:/layout/activity_main.xml"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/menu_menu_main.xml.flat",
+        "source": "net.auva.tv.app-main-58:/menu/menu_main.xml"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/layout_app_bar.xml.flat",
+        "source": "net.auva.tv.app-main-58:/layout/app_bar.xml"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/drawable_ic_launcher_background.xml.flat",
+        "source": "net.auva.tv.app-main-58:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/drawable_ripple_fav.xml.flat",
+        "source": "net.auva.tv.app-main-58:/drawable/ripple_fav.xml"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "net.auva.tv.app-main-58:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/drawable_background_button.xml.flat",
+        "source": "net.auva.tv.app-main-58:/drawable/background_button.xml"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "net.auva.tv.app-main-58:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/drawable_ripple.xml.flat",
+        "source": "net.auva.tv.app-main-58:/drawable/ripple.xml"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/xml_provider_paths.xml.flat",
+        "source": "net.auva.tv.app-main-58:/xml/provider_paths.xml"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "net.auva.tv.app-main-58:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/layout_single_item.xml.flat",
+        "source": "net.auva.tv.app-main-58:/layout/single_item.xml"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/layout_activity_favourite.xml.flat",
+        "source": "net.auva.tv.app-main-58:/layout/activity_favourite.xml"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/drawable_ic_baseline_cast_24.xml.flat",
+        "source": "net.auva.tv.app-main-58:/drawable/ic_baseline_cast_24.xml"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/layout_dialog_about.xml.flat",
+        "source": "net.auva.tv.app-main-58:/layout/dialog_about.xml"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/drawable_ic_notification.png.flat",
+        "source": "net.auva.tv.app-main-58:/drawable/ic_notification.png"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/drawable_logo2.png.flat",
+        "source": "net.auva.tv.app-main-58:/drawable/logo2.png"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/navigation_nav_graph.xml.flat",
+        "source": "net.auva.tv.app-main-58:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "net.auva.tv.app-main-58:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "net.auva.tv.app-main-58:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "net.auva.tv.app-main-58:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/layout_activity_splash_screen.xml.flat",
+        "source": "net.auva.tv.app-main-58:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/layout_tab1_fragment.xml.flat",
+        "source": "net.auva.tv.app-main-58:/layout/tab1_fragment.xml"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "net.auva.tv.app-main-58:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/layout_activity_welcome.xml.flat",
+        "source": "net.auva.tv.app-main-58:/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "net.auva.tv.app-main-58:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/raw_auva_promo.mp4.flat",
+        "source": "net.auva.tv.app-main-58:/raw/auva_promo.mp4"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/navigation_nav_graph2.xml.flat",
+        "source": "net.auva.tv.app-main-58:/navigation/nav_graph2.xml"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/layout_activity_country.xml.flat",
+        "source": "net.auva.tv.app-main-58:/layout/activity_country.xml"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/drawable_only_borders_button.xml.flat",
+        "source": "net.auva.tv.app-main-58:/drawable/only_borders_button.xml"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/layout_activity_send_otp.xml.flat",
+        "source": "net.auva.tv.app-main-58:/layout/activity_send_otp.xml"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/layout_activity_verify_otp.xml.flat",
+        "source": "net.auva.tv.app-main-58:/layout/activity_verify_otp.xml"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "net.auva.tv.app-main-58:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "net.auva.tv.app-main-58:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "net.auva.tv.app-main-58:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "net.auva.tv.app-main-58:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "net.auva.tv.app-merged_res-57:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "net.auva.tv.app-main-58:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

@@ -14,12 +14,4 @@ buildscript {
         // in the individual module build.gradle files
     }
 }
-/*
-allprojects {
-    repositories {
-        google()
-        mavenCentral()
-        maven { url 'http1s://dl.bintray.com/hummatli/maven/' }1
-    }
-}
-*/
+
